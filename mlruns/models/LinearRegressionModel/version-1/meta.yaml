@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738663381625
+current_stage: None
+description: null
+last_updated_timestamp: 1738663381625
+name: LinearRegressionModel
+run_id: cf62ec98ffa141b483956bc06dd866e5
+run_link: null
+source: file:///Users/abhijes2/AI_ML_projects/project_mediassist/mlruns/663153307716987562/cf62ec98ffa141b483956bc06dd866e5/artifacts/mlflow/artifacts/linear_regression
+status: READY
+status_message: null
+storage_location: file:///Users/abhijes2/AI_ML_projects/project_mediassist/mlruns/663153307716987562/cf62ec98ffa141b483956bc06dd866e5/artifacts/mlflow/artifacts/linear_regression
+user_id: null
+version: 1

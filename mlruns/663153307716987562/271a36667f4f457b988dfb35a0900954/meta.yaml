@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abhijes2/AI_ML_projects/project_mediassist/mlruns/663153307716987562/271a36667f4f457b988dfb35a0900954/artifacts
+end_time: 1738667930526
+entry_point_name: ''
+experiment_id: '663153307716987562'
+lifecycle_stage: active
+run_id: 271a36667f4f457b988dfb35a0900954
+run_name: LinearRegression_Verification
+run_uuid: 271a36667f4f457b988dfb35a0900954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738667923126
+status: 3
+tags: []
+user_id: abhijes2
